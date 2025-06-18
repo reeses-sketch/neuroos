@@ -2,7 +2,7 @@
 set -e
 
 # === CONFIG START ===
-DISK="/dev/sdX"        # <--- CHANGE THIS TO YOUR TARGET DRIVE!!!
+DISK="/dev/sda"        # <--- CHANGE THIS TO YOUR TARGET DRIVE!!!
 HOSTNAME="neuroos"
 USERNAME="nathan"
 PASSWORD="nathan"
